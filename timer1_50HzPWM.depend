@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1642153902 source:c:\users\benutzer1\onedrive\dokumente\schule\automation\projekt 5te klasse\timerone-r11\timerone.cpp
+	"TimerOne.h"
+
+1642153902 c:\users\benutzer1\onedrive\dokumente\schule\automation\projekt 5te klasse\timerone-r11\timerone.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1642153235 source:c:\users\benutzer1\onedrive\dokumente\schule\automation\projekt 5te klasse\timer1_50hzpwm\fuse.c
+	<avr/io.h>
+
+1642186350 source:c:\users\benutzer1\onedrive\dokumente\schule\automation\projekt 5te klasse\timer1_50hzpwm\main.c
+	<avr/io.h>
+	<stdlib.h>
+	<stdio.h>
+	<avr/interrupt.h>
+	<string.h>
+	<math.h>
+	<util/delay.h>
+
+1642169501 c:\users\benutzer1\onedrive\dokumente\schule\automation\projekt 5te klasse\timer1_50hzpwm\timerone.h
+
